@@ -1,0 +1,14 @@
+name: sb_web_components
+description: Generate a CSF (component story format) for Web Components.
+version: 0.1.0
+repository: https://github.com/keisrk/mason_bricks/tree/main/bricks/sb_web_components
+
+environment:
+  mason: ">=0.1.0-dev.15 <0.1.0"
+
+vars:
+  component:
+    type: string
+    description: Tag of the custom element.
+    default: my-component
+    prompt: What is you custom element tag?

@@ -1,0 +1,6 @@
+bricks:
+  web_components:
+    path: bricks/web_components
+
+  sb_web_components:
+    path: bricks/sb_web_components
