@@ -10,10 +10,10 @@ mason make web_components --name my-component
 
 ## Variables
 
-`component`
+**component**
 : Tag of the custom element.
 
-`extends_builtin`
+**extends_builtin**
 : False by default. Flag it if your component extends a built-in element.
 
 ## Output

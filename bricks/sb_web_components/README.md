@@ -10,7 +10,7 @@ mason make sb_web_components --name my-component
 
 ## Variables
 
-`component`
+**component**
 : Tag of the custom element.
 
 ## Output
