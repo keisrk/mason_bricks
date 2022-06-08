@@ -5,7 +5,7 @@ Generate a new Web Component class.
 ## Usage
 
 ```sh
-mason make web_components --name my-component
+mason make web_components --component my-component
 ```
 
 ## Variables

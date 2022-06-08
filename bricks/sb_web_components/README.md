@@ -5,7 +5,7 @@ Generate a CSF (component story format) for Web Components.
 ## Usage
 
 ```sh
-mason make sb_web_components --name my-component
+mason make sb_web_components --component my-component
 ```
 
 ## Variables
