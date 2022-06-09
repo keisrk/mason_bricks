@@ -4,5 +4,6 @@ export default {
   title: '{{component.pascalCase()}}'
 }
 
-export const {{component.pascalCase()}} = () {
-}
+const Template = (args) => '<{{component.paramCase()}}></{{component.paramCase()}}>'
+
+export const Default = Template.bind({})
