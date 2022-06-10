@@ -1,6 +1,6 @@
 name: web_components
 description: Generate a new Web Component class.
-version: 0.1.0
+version: 0.1.1
 repository: https://github.com/keisrk/mason_bricks/tree/main/bricks/web_components
 environment:
   mason: ">=0.1.0-dev.15 <0.1.0"
